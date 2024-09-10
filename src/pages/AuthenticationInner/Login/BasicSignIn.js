@@ -12,7 +12,7 @@ const BasicSignIn = () => {
     return (
         <React.Fragment>
             <ParticlesAuth>
-                <div className="auth-page-content">               
+                <div className="auth-page-content">
                     <Container>
                         <Row>
                             <Col lg={12}>
